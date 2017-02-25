@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NotesK1</string>
+    <string name="create_sample_data">create sample data</string>
+    <string name="delete_all_quotes">delete all quotes</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="all_deleted">\"All notes deleted\"</string>
+    <string name="note_updated">note updated</string>
+    <string name="note_deleted">note deleted</string>
+    <string name="new_note">new note</string>
+    <string name="add_quotes">add quotes</string>
+    <string name="save">Save</string>
+    <string name="refresh">refresh</string>
+    <string name="save_as_new_quote">save as new quote</string>
+    <string name="facebook_app_id">1666600030299150</string>
+    <string name="rate">Rate Authors</string>
+    <string name="The_Game">The Game</string>
+</resources>

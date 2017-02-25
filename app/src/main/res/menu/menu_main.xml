@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/addquotes"
+        android:orderInCategory="100"
+        android:title="@string/add_quotes"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_delete_all"
+        android:orderInCategory="101"
+        android:title="@string/delete_all_quotes"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/rateauthors"
+        android:orderInCategory="101"
+        android:title="@string/rate"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/games"
+        android:orderInCategory="102"
+        android:title="@string/The_Game"
+        app:showAsAction="never" />
+
+</menu>
