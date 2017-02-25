@@ -3,9 +3,11 @@ An android app I did for may android course. Where you can add, update and sgare
 
 What does this app do?
 
-1.A quotes list written in JSON is parsed into a list.
+<b>1.A quotes list written in JSON is parsed into a list.
 
-2.User choses a quote, he can:
+<b>2.The user can rate authors he like. His Ratings are saved online.
+
+<b>3.User choses a quote, he can:
 
   a.edit the quote.
   
@@ -15,13 +17,13 @@ What does this app do?
   
   d.Save the quote on his phone (SQLite)
   
-After saving the quote the user can:
+<b>After saving the quote the user can:
 
-  a.Update,Delete & create new quote.
+  a.Update,Delete and create new quote.
   
   b.Add the quote to an image (black background only).
   
-3. The user can rate authors he like. His Ratings are saved online.
 
-There is a rock, paper & scissor game included.
+
+There is a rock, paper and scissor game included.
 
