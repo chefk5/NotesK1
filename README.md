@@ -26,4 +26,7 @@ What does this app do?
 
 
 There is a rock, paper and scissor game included.
+</br>
+Our professor told us that this project should be uploaded to PlayStore! Well, we will add it when doing some material design fixes!
+
 
