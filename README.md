@@ -3,7 +3,7 @@ An android app I did for may android course. Where you can add, update and sgare
 
 What does this app do?
 
-<b>1.A quotes list written in JSON is parsed into a list.</b>
+<b>1.An online quotes list written in JSON is parsed into a list.</b>
 
 <b>2.The user can rate authors he like. His Ratings are saved online.</b>
 
